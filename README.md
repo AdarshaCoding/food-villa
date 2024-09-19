@@ -9,12 +9,16 @@ Currently, two official plugins are available:
 
 ### Steps to create React app using Vite
 
-- npm create vite@latest
-  - √ Project name: ... food-villa
-  - √ Select a framework: » React
-  - √ Select a variant: » JavaScript
-  - Scaffolding project in D:\MERN\Frontend Projects\food-villa...
-  - Done. Now run:
-  - cd food-villa
-  - npm install
-  - npm run dev
+```js
+/**
+ * npm create vite@latest
+ * √ Project name: ... food-villa
+ * √ Select a framework: » React
+ * √ Select a variant: » JavaScript
+ * Scaffolding project in D:\MERN\Frontend Projects\food-villa...
+ *
+ * cd food-villa
+ * npm install
+ * npm run dev
+ */
+```
