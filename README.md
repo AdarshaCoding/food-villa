@@ -14,7 +14,7 @@ Currently, two official plugins are available:
   - √ Select a framework: » React
   - √ Select a variant: » JavaScript
   - Scaffolding project in D:\MERN\Frontend Projects\food-villa...
-    Done. Now run:
-    cd food-villa
-    npm install
-    npm run dev
+  - Done. Now run:
+  - cd food-villa
+  - npm install
+  - npm run dev
